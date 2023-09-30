@@ -9,8 +9,8 @@ Saya berkecimpung di dunia IT sejak saya masuk SMK, yaitu pada tahun 2020.
 
 <a href="https://github.com/faridrawing">
   <span>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faridrawing&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faridrawing&layout=compact&theme=algolia"/>
+    | <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faridrawing&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> | 
+    | <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faridrawing&layout=compact&theme=algolia"/>
   </span>
 </a>
 
