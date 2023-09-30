@@ -4,8 +4,9 @@ Saya seorang **Mahasiswa** di **[Politeknik Negeri Medan](https://polmed.ac.id/)
 Saya berkecimpung di dunia IT sejak saya masuk SMK, yaitu pada tahun 2020.
 
 **Sertifikat**
-* [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/KEXLLY4J4XG2).
-* [Belajar Dasar Structured Query Language (SQL)](https://www.dicoding.com/certificates/QLZ9R2212P5D).
+* [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/KEXLLY4J4XG2) (Dicoding).
+* [Belajar Dasar Structured Query Language (SQL)](https://www.dicoding.com/certificates/QLZ9R2212P5D) (Dicoding).
+* [Kursus SQL](https://progate.com/course_certificate/1378ef4cr9n6p1) (Progate).
 
 ### GitHub Statistic
 
