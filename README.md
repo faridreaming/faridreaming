@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Farid.
 
-Saya seorang **Mahasiswa** di [Politeknik Negeri Medan](https://polmed.ac.id/).<br>
+Saya seorang **Mahasiswa** di **[Politeknik Negeri Medan](https://polmed.ac.id/)**.<br>
 Saya berkecimpung di dunia IT sejak saya masuk SMK, yaitu pada tahun 2020.
 
 ### GitHub Statistic
