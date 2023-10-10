@@ -7,6 +7,7 @@ Saya berkecimpung di dunia IT sejak saya masuk SMK, yaitu pada tahun 2020.
 * [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/KEXLLY4J4XG2) (Dicoding).
 * [Belajar Dasar Structured Query Language (SQL)](https://www.dicoding.com/certificates/QLZ9R2212P5D) (Dicoding).
 * [Kursus SQL](https://progate.com/course_certificate/1378ef4cr9n6p1) (Progate).
+* [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/L4PQ896O4ZO1) (Dicoding).
 
 ### GitHub Statistic
 
