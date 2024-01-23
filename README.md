@@ -1,7 +1,7 @@
 ### Hi! 👋 I'm Farid.
 
-Saya seorang **Mahasiswa** di **[Politeknik Negeri Medan](https://polmed.ac.id/)**.<br>
-Saya berkecimpung di dunia IT sejak saya masuk SMK, yaitu pada tahun 2020.
+I'm a **Student** at **[Politeknik Negeri Medan](https://polmed.ac.id/)**.<br>
+I eat rice, noodle, and any of halal foods.
 
 <!--
 **Sertifikat**
