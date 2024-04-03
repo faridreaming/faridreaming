@@ -1,7 +1,7 @@
 ### Hi! 👋 I'm Farid.
 
 I'm a **Student** at **[Politeknik Negeri Medan](https://polmed.ac.id/)**.<br>
-I eat rice, noodle, and any of halal foods.
+I eat rice, noodle, and any halal foods.
 
 <!--
 **Sertifikat**
