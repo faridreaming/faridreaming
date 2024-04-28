@@ -17,8 +17,8 @@ I eat rice, noodle, and any halal foods.
 <p align="left">
 
 <a href="https://github.com/faridrawing">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faridrawing&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faridrawing&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faridreaming&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faridreaming&layout=compact&theme=algolia"/>
 </a>
 
 </p>
