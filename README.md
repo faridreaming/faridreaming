@@ -1,4 +1,5 @@
-### Hi! 👋 I'm Farid.
+### Hi! 👋 I'm Farid. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> 
+![](https://komarev.com/ghpvc/?username=faridreaming&style=flat-square)
 
 I'm a **Student** at **[Politeknik Negeri Medan](https://polmed.ac.id/)**.<br>
 I eat rice, noodle, and any halal foods.
