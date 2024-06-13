@@ -1,8 +1,10 @@
-### Hi! 👋 I'm Farid.
-![](https://komarev.com/ghpvc/?username=faridreaming&style=flat-square)
+- 👋 Hi, I’m @faridreaming
+- 😆 I'm trying to understand Linux
+- 👀 I’m interested in technology
+- 😄 Pronouns: He
+- ⚡ Fun fact: I eat halal foods
 
-I'm a **Student** at **[Politeknik Negeri Medan](https://polmed.ac.id/)**.<br>
-I eat rice, noodle, and any halal foods.
+![](https://komarev.com/ghpvc/?username=faridreaming&style=flat-square)
 
 ### GitHub Statistic
 
