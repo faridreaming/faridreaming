@@ -1,3 +1,5 @@
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
+
 - 👋 Hi, I’m @faridreaming
 - 😆 I'm trying to understand Linux
 - 👀 I’m interested in technology
