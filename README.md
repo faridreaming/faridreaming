@@ -1,7 +1,6 @@
-<a href="https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md" target="_blank">
-  <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="Banner" style="width: 100%; height: auto;" />
+<a href='https://github.com/Safouene1/support-palestine-banner'>
+  <img src='https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg' alt='Support Palestine' width='100%' />
 </a>
-
 
 # 💫 About Me:
 👋 Hi, I’m @faridreaming<br>😆 I'm trying to understand Linux<br>👀 I’m interested in technology<br>😄 Pronouns: He<br>⚡ Fun fact: I eat halal foods
